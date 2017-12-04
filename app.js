@@ -1,5 +1,6 @@
 function findFirstLetter(string) {
-  console.log(string[0]);
+  return string[0];
+
 }
 
 module.exports = {
