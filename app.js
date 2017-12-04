@@ -1,3 +1,7 @@
 function findFirstLetter(string) {
-  console.log('hey');
+  console.log(string[0]);
+}
+
+module.exports = {
+  findFirstLetter
 }
